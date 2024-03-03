@@ -1,4 +1,5 @@
-[![image](https://github.com/AdirSalinas/AdirSalinas/assets/162021031/41fb2dad-1d16-4318-ab59-35145689362b)](https://www.google.com/search?sca_esv=c572f28a7634ee35&sxsrf=ACQVn08exjNG44m7csPeLMLIo6N9I1NKlA:1709498867024&q=gif+picture&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjYu9nF-9iEAxXmhP0HHcOLCK0Q0pQJegQICxAB&biw=1745&bih=866&dpr=1.1#imgrc=gpI8ka5myzTaUM)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif">
+
 - 👋 Hi, I’m @AdirSalinas
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
