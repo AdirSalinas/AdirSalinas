@@ -1,3 +1,10 @@
+<div align="center">
+
+![image](https://github.com/AdirSalinas/AdirSalinas/assets/162021031/b1c341c6-b909-4b93-945c-6d413aaa3d44)
+
+</div>
+
+
 
 <h1 align="center">Hello 👋, I'm Adir Salinas</h1>
 
