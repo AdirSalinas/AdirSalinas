@@ -21,5 +21,5 @@
 - 📫 **How to Reach Me : adir735@gmail.com**
 - 🔍 **I'm currently learning: Java programming language.**
 - ⚽ **Fun fact: Cars and football take up a big part in my heart.**
-
+- ⚽ **Feel free to view my projects inside the Repositories tab**
 
