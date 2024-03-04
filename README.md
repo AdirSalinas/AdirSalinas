@@ -9,9 +9,6 @@
 ### <p align="center">I'm Adir Salinas </p>
 ### <p align="center">Cyber Security Analyst</p>
 
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/1e/a8/4a/1ea84ae20717923f1649df6000866e65.jpg">
-
 - 👋 Hi, I’m @AdirSalinas
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
