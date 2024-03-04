@@ -6,14 +6,16 @@
 <h1 align="center">Welcome To My Profile</h1>
 
 
-### <p align="center">I'm Adir Salinas </p>
-### <p align="center">Cyber Security Analyst</p>
+### <p align="center">Hello My Name is Adir Salinas  </p>
+### <p align="center">Student Specializing in Cybersecurity and Information Security Analysis.</p>
 
+---
+- 💻 **I'm Currently Studying at :  JohnBryce | TelAviv - CyberSecurity**
+- 📫 **How to Reach Me : adir735@gmail.com**
 - 👋 Hi, I’m @AdirSalinas
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
