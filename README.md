@@ -7,15 +7,15 @@
 ### <p align="center">Student Specializing in Cybersecurity and Information Security Analysis.</p>
 ---
 
+
+<a href="http://www.github.com/AdirSalinas"><img img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=AdirSalinas&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdirSalinas's GitHub stats" /></a>
+</h1>
+
+
 - 💻 **I'm Currently Studying at :  JohnBryce | TelAviv - CyberSecurity**
 - 👀 **I'm interested in : learning new programming languages.**
 - 📫 **How to Reach Me : adir735@gmail.com**
 - 🔍 **I'm currently learning: Java programming language.**
 - ⚽ **Fun fact: Cars and football take up a big part in my heart.**
-
-<!---
-AdirSalinas/AdirSalinas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
