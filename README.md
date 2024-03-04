@@ -31,6 +31,8 @@
 <a href="https://www.linkedin.com/AdirSalinas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </h1>
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/AdirSalinas/AdirSalinas/assets/162021031/6b85c1ce-bfbb-4db7-bc9f-3a1f91163691" alt="bash" width="80" height="50"/> </a>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/AdirSalinas/AdirSalinas/assets/162021031/6b85c1ce-bfbb-4db7-bc9f-3a1f91163691" alt="bash" width="80" height="50"/> </a> <a href="https://www.adobe.com/il_en/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/AdirSalinas/AdirSalinas/assets/162021031/72b52d56-b8d4-49c4-97f2-9b8a8e23b4ed" alt="bash" width="60" height="60"/> </a> <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AdirSalinas/AdirSalinas/assets/162021031/80f09412-f640-4e66-bfd5-af877751fed2" alt="bash" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a> <a href="https://volatilityfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AdirSalinas/AdirSalinas/assets/162021031/8dc97857-ebd6-470a-aa10-818d5df20374" alt="linux" width="55" height="55"/> </a> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/AdirSalinas/AdirSalinas/assets/162021031/f005199c-6079-4dc6-93f7-e47c89c298a2" alt="linux" width="55" height="55"/> </a>
+    
 
-[![My Skills](https://skillicons.dev/icons?i=js,bsd,css,wasm)](https://skillicons.dev)
+
+
