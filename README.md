@@ -20,7 +20,10 @@
 - ⚽ **Fun fact: Cars and football take up a big part in my heart.**
 - 🔍 **Feel free to explore my projects in the Repositories tab!**
 
-<h2 align="center"> Socials</h2>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+Socials!;Follow+Me!;" />
+</h1>
 
 <h1 align="center">
 <a href="https://www.instagram.com/adir.salinas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
