@@ -13,7 +13,6 @@
 </h1>
 
 
-
 - 💻 **I'm Currently Studying at :  JohnBryce | CyberSecurity**
 - 👀 **I'm interested in : learning new programming languages.**
 - 📫 **How to Reach Me : adir735@gmail.com**
@@ -22,5 +21,9 @@
 - 🔍 **Feel free to explore my projects in the Repositories tab!**
 
  <a href="https://www.instagram.com/adir.salinas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/1186670837349240832" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%235387F5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
  <a href = "mailto: contato@leehxd.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/AdirSalinas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
