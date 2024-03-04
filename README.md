@@ -19,7 +19,7 @@
 - 💻 **I'm Currently Studying at :  JohnBryce | CyberSecurity**
 - 👀 **I'm interested in : learning new programming languages.**
 - 📫 **How to Reach Me : adir735@gmail.com**
-- 🔍 **I'm currently learning: Java programming language.**
+- 📚 **I'm currently learning: Java programming language.**
 - ⚽ **Fun fact: Cars and football take up a big part in my heart.**
-- ⚽ **Feel free to view my projects inside the Repositories tab**
+- 🔍 **Feel free to explore my projects within the Repositories tab.**
 
